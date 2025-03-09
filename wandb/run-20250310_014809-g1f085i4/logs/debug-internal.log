@@ -1,0 +1,16 @@
+{"time":"2025-03-10T01:48:09.8064096+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401\\wandb\\run-20250310_014809-g1f085i4\\logs\\debug-core.log"}
+{"time":"2025-03-10T01:48:10.7255902+05:30","level":"INFO","msg":"created new stream","id":"g1f085i4"}
+{"time":"2025-03-10T01:48:10.7261376+05:30","level":"INFO","msg":"stream: started","id":"g1f085i4"}
+{"time":"2025-03-10T01:48:10.7261376+05:30","level":"INFO","msg":"handler: started","stream_id":"g1f085i4"}
+{"time":"2025-03-10T01:48:10.7261376+05:30","level":"INFO","msg":"sender: started","stream_id":"g1f085i4"}
+{"time":"2025-03-10T01:48:10.7261376+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"g1f085i4"}
+{"time":"2025-03-10T01:48:11.0726807+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T01:48:11.9646989+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T01:48:11.9652029+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T01:48:12.9844362+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.7061786},{"desc":"uploading wandb-summary.json","runtime_seconds":0.7061786,"progress":"24B/24B"},{"desc":"uploading config.yaml","runtime_seconds":0.4295255,"progress":"916B/916B"}],"total_operations":3}}
+{"time":"2025-03-10T01:48:13.622744+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T01:48:13.9458853+05:30","level":"INFO","msg":"stream: closing","id":"g1f085i4"}
+{"time":"2025-03-10T01:48:13.9458853+05:30","level":"INFO","msg":"handler: closed","stream_id":"g1f085i4"}
+{"time":"2025-03-10T01:48:13.9458853+05:30","level":"INFO","msg":"sender: closed","stream_id":"g1f085i4"}
+{"time":"2025-03-10T01:48:13.9458853+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"g1f085i4"}
+{"time":"2025-03-10T01:48:13.9463894+05:30","level":"INFO","msg":"stream: closed","id":"g1f085i4"}

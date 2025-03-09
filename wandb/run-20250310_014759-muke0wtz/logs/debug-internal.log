@@ -1,0 +1,16 @@
+{"time":"2025-03-10T01:47:59.600116+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401\\wandb\\run-20250310_014759-muke0wtz\\logs\\debug-core.log"}
+{"time":"2025-03-10T01:48:00.62768+05:30","level":"INFO","msg":"created new stream","id":"muke0wtz"}
+{"time":"2025-03-10T01:48:00.62768+05:30","level":"INFO","msg":"stream: started","id":"muke0wtz"}
+{"time":"2025-03-10T01:48:00.62768+05:30","level":"INFO","msg":"handler: started","stream_id":"muke0wtz"}
+{"time":"2025-03-10T01:48:00.62768+05:30","level":"INFO","msg":"sender: started","stream_id":"muke0wtz"}
+{"time":"2025-03-10T01:48:00.6284694+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"muke0wtz"}
+{"time":"2025-03-10T01:48:01.0141636+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T01:48:01.866962+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T01:48:01.8683268+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T01:48:02.8768945+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.6836198},{"desc":"uploading wandb-summary.json","runtime_seconds":0.6836198,"progress":"24B/24B"},{"desc":"uploading config.yaml","runtime_seconds":0.3772198,"progress":"913B/913B"}],"total_operations":3}}
+{"time":"2025-03-10T01:48:03.5058481+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T01:48:03.8301366+05:30","level":"INFO","msg":"stream: closing","id":"muke0wtz"}
+{"time":"2025-03-10T01:48:03.8301366+05:30","level":"INFO","msg":"handler: closed","stream_id":"muke0wtz"}
+{"time":"2025-03-10T01:48:03.8301366+05:30","level":"INFO","msg":"sender: closed","stream_id":"muke0wtz"}
+{"time":"2025-03-10T01:48:03.8301366+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"muke0wtz"}
+{"time":"2025-03-10T01:48:03.8306453+05:30","level":"INFO","msg":"stream: closed","id":"muke0wtz"}

@@ -1,0 +1,42 @@
+2025-03-10 01:57:42,782 INFO    Thread-1606 (_run_job):15064 [wandb_setup.py:_flush():67] Current SDK version is 0.19.8
+2025-03-10 01:57:42,782 INFO    Thread-1606 (_run_job):15064 [wandb_setup.py:_flush():67] Configure stats pid to 15064
+2025-03-10 01:57:42,782 INFO    Thread-1606 (_run_job):15064 [wandb_setup.py:_flush():67] Loading settings from C:\Users\acer\.config\wandb\settings
+2025-03-10 01:57:42,782 INFO    Thread-1606 (_run_job):15064 [wandb_setup.py:_flush():67] Loading settings from c:\Users\acer\OneDrive\Documents\GitHub\dl_assignment_ed24s401\wandb\settings
+2025-03-10 01:57:42,782 INFO    Thread-1606 (_run_job):15064 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-10 01:57:42,782 INFO    Thread-1606 (_run_job):15064 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\acer\OneDrive\Documents\GitHub\dl_assignment_ed24s401\wandb\run-20250310_015742-tmq8ccrf\logs\debug.log
+2025-03-10 01:57:42,782 INFO    Thread-1606 (_run_job):15064 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\acer\OneDrive\Documents\GitHub\dl_assignment_ed24s401\wandb\run-20250310_015742-tmq8ccrf\logs\debug-internal.log
+2025-03-10 01:57:42,782 INFO    Thread-1606 (_run_job):15064 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001DCA3917D90>
+2025-03-10 01:57:42,782 INFO    Thread-1606 (_run_job):15064 [wandb_init.py:init():761] calling init triggers
+2025-03-10 01:57:42,782 INFO    Thread-1606 (_run_job):15064 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'sigmoid', 'batch_size': 16, 'beta1': 0.9, 'beta2': 0.999, 'beta_rms': 0.9, 'epochs': 10, 'epsilon': 1e-08, 'hidden_size': 64, 'init_type': 'xavier', 'learning_rate': 0.0001, 'momentum': 0.9, 'num_hidden_layers': 3, 'optimizer': 'nesterov', 'weight_decay': 0.5}
+config: {'_wandb': {}}
+2025-03-10 01:57:42,782 INFO    Thread-1606 (_run_job):15064 [wandb_init.py:init():784] starting backend
+2025-03-10 01:57:42,782 INFO    Thread-1606 (_run_job):15064 [wandb_init.py:init():788] sending inform_init request
+2025-03-10 01:57:42,782 INFO    Thread-1606 (_run_job):15064 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-03-10 01:57:42,795 INFO    Thread-1606 (_run_job):15064 [wandb_init.py:init():798] backend started and connected
+2025-03-10 01:57:42,797 INFO    Thread-1606 (_run_job):15064 [wandb_run.py:_config_callback():1261] config_cb None None {'activation': 'sigmoid', 'batch_size': 16, 'beta1': 0.9, 'beta2': 0.999, 'beta_rms': 0.9, 'epochs': 10, 'epsilon': 1e-08, 'hidden_size': 64, 'init_type': 'xavier', 'learning_rate': 0.0001, 'momentum': 0.9, 'num_hidden_layers': 3, 'optimizer': 'nesterov', 'weight_decay': 0.5}
+2025-03-10 01:57:42,800 INFO    Thread-1606 (_run_job):15064 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-10 01:57:42,801 INFO    Thread-1606 (_run_job):15064 [wandb_run.py:_label_probe_notebook():1214] Unable to probe notebook: 'charmap' codec can't decode byte 0x81 in position 51724: character maps to <undefined>
+2025-03-10 01:57:42,802 INFO    Thread-1606 (_run_job):15064 [wandb_init.py:init():891] updated telemetry
+2025-03-10 01:57:42,846 INFO    Thread-1606 (_run_job):15064 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-10 01:57:43,925 INFO    Thread-1606 (_run_job):15064 [wandb_init.py:init():990] starting run threads in backend
+2025-03-10 01:57:44,136 INFO    Thread-1606 (_run_job):15064 [wandb_run.py:_console_start():2375] atexit reg
+2025-03-10 01:57:44,137 INFO    Thread-1606 (_run_job):15064 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-10 01:57:44,138 INFO    Thread-1606 (_run_job):15064 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-10 01:57:44,139 INFO    Thread-1606 (_run_job):15064 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-03-10 01:57:44,141 INFO    Thread-1606 (_run_job):15064 [wandb_init.py:init():1032] run started, returning control to user process
+2025-03-10 01:57:45,567 INFO    Thread-1606 (_run_job):15064 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\acer\OneDrive\Documents\GitHub\dl_assignment_ed24s401\wandb\run-20250310_015745-tmq8ccrf\logs\debug.log
+2025-03-10 01:57:45,569 INFO    Thread-1606 (_run_job):15064 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\acer\OneDrive\Documents\GitHub\dl_assignment_ed24s401\wandb\run-20250310_015745-tmq8ccrf\logs\debug-internal.log
+2025-03-10 01:57:45,569 INFO    Thread-1606 (_run_job):15064 [wandb_init.py:init():761] calling init triggers
+2025-03-10 01:57:45,571 INFO    Thread-1606 (_run_job):15064 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'sigmoid', 'batch_size': 16, 'beta1': 0.9, 'beta2': 0.999, 'beta_rms': 0.9, 'epochs': 10, 'epsilon': 1e-08, 'hidden_size': 64, 'init_type': 'xavier', 'learning_rate': 0.0001, 'momentum': 0.9, 'num_hidden_layers': 3, 'optimizer': 'nesterov', 'weight_decay': 0.5}
+config: {'optimizer': 'nesterov', 'learning_rate': 0.0001, 'momentum': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'beta_rms': 0.9, 'epsilon': 1e-08, 'weight_decay': 0.5, 'init_type': 'xavier', 'activation': 'sigmoid', 'epochs': 10, 'batch_size': 16, 'layers': [784, 64, 64, 64, 10], '_wandb': {}}
+2025-03-10 01:57:45,573 INFO    Thread-1606 (_run_job):15064 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-10 01:58:04,871 INFO    Thread-1606 (_run_job):15064 [wandb_run.py:_finish():2112] finishing run ed24s401-indian-institute-of-technology-madras/q4_sweep_implemetation/tmq8ccrf
+2025-03-10 01:58:04,874 ERROR   Thread-1606 (_run_job):15064 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-03-10 01:58:04,874 INFO    Thread-1606 (_run_job):15064 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-10 01:58:04,874 INFO    Thread-1606 (_run_job):15064 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-03-10 01:58:04,877 INFO    Thread-1606 (_run_job):15064 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-03-10 01:58:04,879 INFO    Thread-1606 (_run_job):15064 [wandb_run.py:_restore():2322] restore
+2025-03-10 01:58:04,881 INFO    Thread-1606 (_run_job):15064 [wandb_run.py:_restore():2328] restore done
+2025-03-10 01:58:06,964 INFO    Thread-1606 (_run_job):15064 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-03-10 01:58:06,964 INFO    Thread-1606 (_run_job):15064 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-03-10 01:58:06,969 INFO    Thread-1606 (_run_job):15064 [wandb_run.py:_footer_sync_info():3917] logging synced files

@@ -1,0 +1,25 @@
+2025-03-09 23:50:53,861 INFO    MainThread:15064 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\acer\OneDrive\Documents\GitHub\dl_assignment_ed24s401\wandb\run-20250309_235053-uc5rq4f2\logs\debug.log
+2025-03-09 23:50:53,861 INFO    MainThread:15064 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\acer\OneDrive\Documents\GitHub\dl_assignment_ed24s401\wandb\run-20250309_235053-uc5rq4f2\logs\debug-internal.log
+2025-03-09 23:50:53,861 INFO    MainThread:15064 [wandb_init.py:init():761] calling init triggers
+2025-03-09 23:50:53,861 INFO    MainThread:15064 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'optimizer': 'adam', 'learning_rate': 0.001, 'momentum': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'beta_rms': 0.9, 'epsilon': 1e-08, 'epochs': 50, 'batch_size': 64, 'layers': [784, 128, 64, 10], '_wandb': {}}
+2025-03-09 23:50:53,861 INFO    MainThread:15064 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-09 23:50:54,488 INFO    MainThread:15064 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-09 23:50:54,491 INFO    MainThread:15064 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-09 23:52:05,338 INFO    MainThread:15064 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-09 23:52:05,359 INFO    MainThread:15064 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\acer\OneDrive\Documents\GitHub\dl_assignment_ed24s401\wandb\run-20250309_235205-bsqayf5a\logs\debug.log
+2025-03-09 23:52:05,359 INFO    MainThread:15064 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\acer\OneDrive\Documents\GitHub\dl_assignment_ed24s401\wandb\run-20250309_235205-bsqayf5a\logs\debug-internal.log
+2025-03-09 23:52:05,360 INFO    MainThread:15064 [wandb_init.py:init():761] calling init triggers
+2025-03-09 23:52:05,361 INFO    MainThread:15064 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'optimizer': 'adam', 'learning_rate': 0.001, 'momentum': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'beta_rms': 0.9, 'epsilon': 1e-08, 'epochs': 50, 'batch_size': 64, 'layers': [784, 128, 64, 10], '_wandb': {}}
+2025-03-09 23:52:05,361 INFO    MainThread:15064 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-09 23:55:05,263 INFO    MainThread:15064 [wandb_run.py:_finish():2112] finishing run ed24s401-indian-institute-of-technology-madras/backpropagation framework/yv1lua0a
+2025-03-09 23:55:05,273 ERROR   MainThread:15064 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-03-09 23:55:05,273 INFO    MainThread:15064 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-09 23:55:05,273 INFO    MainThread:15064 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-03-09 23:55:05,273 INFO    MainThread:15064 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-03-09 23:55:05,273 INFO    MainThread:15064 [wandb_run.py:_restore():2322] restore
+2025-03-09 23:55:05,273 INFO    MainThread:15064 [wandb_run.py:_restore():2328] restore done
+2025-03-09 23:55:07,736 INFO    MainThread:15064 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-03-09 23:55:07,738 INFO    MainThread:15064 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-03-09 23:55:07,738 INFO    MainThread:15064 [wandb_run.py:_footer_sync_info():3917] logging synced files

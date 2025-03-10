@@ -1,0 +1,5 @@
+Epoch 1/5 - loss=1.6811, val_acc=0.6628
+Epoch 2/5 - loss=1.0825, val_acc=0.7213
+Epoch 3/5 - loss=0.9076, val_acc=0.7498
+Epoch 4/5 - loss=0.8133, val_acc=0.7800
+Epoch 5/5 - loss=0.7522, val_acc=0.7960

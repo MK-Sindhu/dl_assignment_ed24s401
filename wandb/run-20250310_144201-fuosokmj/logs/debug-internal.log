@@ -1,0 +1,16 @@
+{"time":"2025-03-10T14:42:01.937381+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401\\wandb\\run-20250310_144201-fuosokmj\\logs\\debug-core.log"}
+{"time":"2025-03-10T14:42:02.0542622+05:30","level":"INFO","msg":"created new stream","id":"fuosokmj"}
+{"time":"2025-03-10T14:42:02.0542622+05:30","level":"INFO","msg":"stream: started","id":"fuosokmj"}
+{"time":"2025-03-10T14:42:02.0542622+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"fuosokmj"}
+{"time":"2025-03-10T14:42:02.0542622+05:30","level":"INFO","msg":"sender: started","stream_id":"fuosokmj"}
+{"time":"2025-03-10T14:42:02.0542622+05:30","level":"INFO","msg":"handler: started","stream_id":"fuosokmj"}
+{"time":"2025-03-10T14:42:02.4299215+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T14:42:25.8185428+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T14:42:25.8190492+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T14:42:26.7861726+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T14:42:26.831879+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 6-10, summary, console lines 6-9","runtime_seconds":0.0457064}],"total_operations":1}}
+{"time":"2025-03-10T14:42:27.1044089+05:30","level":"INFO","msg":"stream: closing","id":"fuosokmj"}
+{"time":"2025-03-10T14:42:27.1044089+05:30","level":"INFO","msg":"handler: closed","stream_id":"fuosokmj"}
+{"time":"2025-03-10T14:42:27.1044089+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"fuosokmj"}
+{"time":"2025-03-10T14:42:27.1044089+05:30","level":"INFO","msg":"sender: closed","stream_id":"fuosokmj"}
+{"time":"2025-03-10T14:42:27.1049138+05:30","level":"INFO","msg":"stream: closed","id":"fuosokmj"}

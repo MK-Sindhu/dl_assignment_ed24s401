@@ -1,0 +1,13 @@
+C:\Users\acer\AppData\Local\Temp\ipykernel_20856\2558324934.py:202: RuntimeWarning: overflow encountered in square
+  l2_norm_weights += np.sum(self.weights[i] ** 2)
+c:\Users\acer\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\_core\fromnumeric.py:86: RuntimeWarning: overflow encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+C:\Users\acer\AppData\Local\Temp\ipykernel_20856\2558324934.py:204: RuntimeWarning: overflow encountered in square
+  l2_norm_bias += np.sum(self.biases[i] ** 2)
+C:\Users\acer\AppData\Local\Temp\ipykernel_20856\2558324934.py:208: RuntimeWarning: invalid value encountered in scalar multiply
+  loss = -np.mean(np.sum(y_batch * np.log(out + 1e-10), axis = 1)) +  (self.weight_decay/2) * l2_norm_params # (1e-10) to prevent underflow
+Epoch 1/5 - loss=nan, val_acc=0.0977
+Epoch 2/5 - loss=nan, val_acc=0.0977
+Epoch 3/5 - loss=nan, val_acc=0.0977
+Epoch 4/5 - loss=nan, val_acc=0.0977
+Epoch 5/5 - loss=nan, val_acc=0.0977

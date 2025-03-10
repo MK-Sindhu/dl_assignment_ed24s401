@@ -1,0 +1,10 @@
+Epoch 1/10 - loss=0.5703, val_acc=0.8443
+Epoch 2/10 - loss=0.4033, val_acc=0.8440
+Epoch 3/10 - loss=0.3630, val_acc=0.8637
+Epoch 4/10 - loss=0.3399, val_acc=0.8722
+Epoch 5/10 - loss=0.3231, val_acc=0.8692
+Epoch 6/10 - loss=0.3082, val_acc=0.8742
+Epoch 7/10 - loss=0.2965, val_acc=0.8758
+Epoch 8/10 - loss=0.2896, val_acc=0.8812
+Epoch 9/10 - loss=0.2784, val_acc=0.8733
+Epoch 10/10 - loss=0.2739, val_acc=0.8632

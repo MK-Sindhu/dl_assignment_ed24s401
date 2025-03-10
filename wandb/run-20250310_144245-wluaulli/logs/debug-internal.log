@@ -1,0 +1,16 @@
+{"time":"2025-03-10T14:42:45.7222273+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401\\wandb\\run-20250310_144245-wluaulli\\logs\\debug-core.log"}
+{"time":"2025-03-10T14:42:45.8359838+05:30","level":"INFO","msg":"created new stream","id":"wluaulli"}
+{"time":"2025-03-10T14:42:45.8359838+05:30","level":"INFO","msg":"stream: started","id":"wluaulli"}
+{"time":"2025-03-10T14:42:45.8359838+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"wluaulli"}
+{"time":"2025-03-10T14:42:45.8359838+05:30","level":"INFO","msg":"handler: started","stream_id":"wluaulli"}
+{"time":"2025-03-10T14:42:45.8359838+05:30","level":"INFO","msg":"sender: started","stream_id":"wluaulli"}
+{"time":"2025-03-10T14:42:46.1966427+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T14:43:31.3901009+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T14:43:31.3930962+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T14:43:32.4088284+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.3301967,"progress":"200B/200B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3301967,"progress":"236B/236B"},{"desc":"uploading config.yaml","runtime_seconds":0.0400928,"progress":"941B/941B"}],"total_operations":3}}
+{"time":"2025-03-10T14:43:32.725736+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T14:43:33.1107435+05:30","level":"INFO","msg":"stream: closing","id":"wluaulli"}
+{"time":"2025-03-10T14:43:33.1107435+05:30","level":"INFO","msg":"handler: closed","stream_id":"wluaulli"}
+{"time":"2025-03-10T14:43:33.1107435+05:30","level":"INFO","msg":"sender: closed","stream_id":"wluaulli"}
+{"time":"2025-03-10T14:43:33.1107435+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"wluaulli"}
+{"time":"2025-03-10T14:43:33.1107435+05:30","level":"INFO","msg":"stream: closed","id":"wluaulli"}

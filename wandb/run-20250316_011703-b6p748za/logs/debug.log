@@ -31,3 +31,6 @@ config: {'_wandb': {}}
 2025-03-16 01:17:34,212 INFO    Thread-321 (_run_job):25676 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
 2025-03-16 01:17:34,212 INFO    Thread-321 (_run_job):25676 [wandb_run.py:_restore():2322] restore
 2025-03-16 01:17:34,213 INFO    Thread-321 (_run_job):25676 [wandb_run.py:_restore():2328] restore done
+2025-03-16 01:17:36,207 INFO    Thread-321 (_run_job):25676 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-03-16 01:17:36,207 INFO    Thread-321 (_run_job):25676 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-03-16 01:17:36,209 INFO    Thread-321 (_run_job):25676 [wandb_run.py:_footer_sync_info():3917] logging synced files

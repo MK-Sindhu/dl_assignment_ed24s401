@@ -1,0 +1,16 @@
+{"time":"2025-03-16T00:38:33.8681572+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401\\wandb\\run-20250316_003833-mmi3usod\\logs\\debug-core.log"}
+{"time":"2025-03-16T00:38:33.9891264+05:30","level":"INFO","msg":"created new stream","id":"mmi3usod"}
+{"time":"2025-03-16T00:38:33.9891264+05:30","level":"INFO","msg":"stream: started","id":"mmi3usod"}
+{"time":"2025-03-16T00:38:33.9891264+05:30","level":"INFO","msg":"handler: started","stream_id":"mmi3usod"}
+{"time":"2025-03-16T00:38:33.9891264+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"mmi3usod"}
+{"time":"2025-03-16T00:38:33.9891264+05:30","level":"INFO","msg":"sender: started","stream_id":"mmi3usod"}
+{"time":"2025-03-16T00:38:34.3850683+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T00:40:40.58946+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T00:40:40.5907269+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T00:40:41.648672+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.2999449,"progress":"241B/241B"},{"desc":"uploading output.log","runtime_seconds":0.2999449,"progress":"725B/725B"}],"total_operations":2}}
+{"time":"2025-03-16T00:40:42.3703792+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T00:40:42.8340798+05:30","level":"INFO","msg":"stream: closing","id":"mmi3usod"}
+{"time":"2025-03-16T00:40:42.8340798+05:30","level":"INFO","msg":"handler: closed","stream_id":"mmi3usod"}
+{"time":"2025-03-16T00:40:42.8348229+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"mmi3usod"}
+{"time":"2025-03-16T00:40:42.8348229+05:30","level":"INFO","msg":"sender: closed","stream_id":"mmi3usod"}
+{"time":"2025-03-16T00:40:42.8355891+05:30","level":"INFO","msg":"stream: closed","id":"mmi3usod"}

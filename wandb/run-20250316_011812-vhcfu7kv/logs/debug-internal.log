@@ -1,0 +1,16 @@
+{"time":"2025-03-16T01:18:12.2631711+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401\\wandb\\run-20250316_011812-vhcfu7kv\\logs\\debug-core.log"}
+{"time":"2025-03-16T01:18:12.444136+05:30","level":"INFO","msg":"created new stream","id":"vhcfu7kv"}
+{"time":"2025-03-16T01:18:12.444136+05:30","level":"INFO","msg":"stream: started","id":"vhcfu7kv"}
+{"time":"2025-03-16T01:18:12.444136+05:30","level":"INFO","msg":"sender: started","stream_id":"vhcfu7kv"}
+{"time":"2025-03-16T01:18:12.444136+05:30","level":"INFO","msg":"handler: started","stream_id":"vhcfu7kv"}
+{"time":"2025-03-16T01:18:12.444136+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"vhcfu7kv"}
+{"time":"2025-03-16T01:18:12.9472785+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T01:18:33.9699993+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T01:18:33.9706945+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T01:18:34.9972848+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.7127849,"progress":"714B/714B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.7127849,"progress":"236B/236B"},{"desc":"uploading config.yaml","runtime_seconds":0.4152364,"progress":"942B/942B"}],"total_operations":3}}
+{"time":"2025-03-16T01:18:35.6133172+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T01:18:35.9717049+05:30","level":"INFO","msg":"stream: closing","id":"vhcfu7kv"}
+{"time":"2025-03-16T01:18:35.9717049+05:30","level":"INFO","msg":"handler: closed","stream_id":"vhcfu7kv"}
+{"time":"2025-03-16T01:18:35.9717049+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"vhcfu7kv"}
+{"time":"2025-03-16T01:18:35.9717049+05:30","level":"INFO","msg":"sender: closed","stream_id":"vhcfu7kv"}
+{"time":"2025-03-16T01:18:35.9722087+05:30","level":"INFO","msg":"stream: closed","id":"vhcfu7kv"}

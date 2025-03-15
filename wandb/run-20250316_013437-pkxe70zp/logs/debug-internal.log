@@ -1,0 +1,16 @@
+{"time":"2025-03-16T01:34:37.5504586+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401\\wandb\\run-20250316_013437-pkxe70zp\\logs\\debug-core.log"}
+{"time":"2025-03-16T01:34:37.6652621+05:30","level":"INFO","msg":"created new stream","id":"pkxe70zp"}
+{"time":"2025-03-16T01:34:37.6652621+05:30","level":"INFO","msg":"stream: started","id":"pkxe70zp"}
+{"time":"2025-03-16T01:34:37.6652621+05:30","level":"INFO","msg":"sender: started","stream_id":"pkxe70zp"}
+{"time":"2025-03-16T01:34:37.6652621+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"pkxe70zp"}
+{"time":"2025-03-16T01:34:37.6652621+05:30","level":"INFO","msg":"handler: started","stream_id":"pkxe70zp"}
+{"time":"2025-03-16T01:34:38.0141383+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T01:34:47.5382885+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T01:34:47.5406834+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T01:34:48.5547437+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.6913672,"progress":"365B/365B"},{"desc":"uploading config.yaml","runtime_seconds":0.3570981,"progress":"942B/942B"}],"total_operations":2}}
+{"time":"2025-03-16T01:34:49.2275976+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T01:34:49.5878953+05:30","level":"INFO","msg":"stream: closing","id":"pkxe70zp"}
+{"time":"2025-03-16T01:34:49.5878953+05:30","level":"INFO","msg":"handler: closed","stream_id":"pkxe70zp"}
+{"time":"2025-03-16T01:34:49.5878953+05:30","level":"INFO","msg":"sender: closed","stream_id":"pkxe70zp"}
+{"time":"2025-03-16T01:34:49.5878953+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"pkxe70zp"}
+{"time":"2025-03-16T01:34:49.5884012+05:30","level":"INFO","msg":"stream: closed","id":"pkxe70zp"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-16T20:56:25.7000123+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401\\wandb\\run-20250316_205625-ntbfx4rg\\logs\\debug-core.log"}
+{"time":"2025-03-16T20:56:25.8139436+05:30","level":"INFO","msg":"created new stream","id":"ntbfx4rg"}
+{"time":"2025-03-16T20:56:25.8139436+05:30","level":"INFO","msg":"stream: started","id":"ntbfx4rg"}
+{"time":"2025-03-16T20:56:25.8139436+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ntbfx4rg"}
+{"time":"2025-03-16T20:56:25.8139436+05:30","level":"INFO","msg":"handler: started","stream_id":"ntbfx4rg"}
+{"time":"2025-03-16T20:56:25.8139436+05:30","level":"INFO","msg":"sender: started","stream_id":"ntbfx4rg"}
+{"time":"2025-03-16T20:56:26.1751525+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T20:56:51.1591867+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T20:56:51.1603679+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T20:56:52.1697755+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.6942894,"progress":"722B/722B"},{"desc":"uploading config.yaml","runtime_seconds":0.4028137,"progress":"941B/941B"}],"total_operations":2}}
+{"time":"2025-03-16T20:56:52.9983452+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T20:56:53.3331996+05:30","level":"INFO","msg":"stream: closing","id":"ntbfx4rg"}
+{"time":"2025-03-16T20:56:53.3331996+05:30","level":"INFO","msg":"handler: closed","stream_id":"ntbfx4rg"}
+{"time":"2025-03-16T20:56:53.3331996+05:30","level":"INFO","msg":"sender: closed","stream_id":"ntbfx4rg"}
+{"time":"2025-03-16T20:56:53.3331996+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ntbfx4rg"}
+{"time":"2025-03-16T20:56:53.3331996+05:30","level":"INFO","msg":"stream: closed","id":"ntbfx4rg"}

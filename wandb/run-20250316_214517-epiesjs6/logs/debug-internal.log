@@ -1,0 +1,16 @@
+{"time":"2025-03-16T21:45:17.949276+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401\\wandb\\run-20250316_214517-epiesjs6\\logs\\debug-core.log"}
+{"time":"2025-03-16T21:45:18.0660193+05:30","level":"INFO","msg":"created new stream","id":"epiesjs6"}
+{"time":"2025-03-16T21:45:18.0666994+05:30","level":"INFO","msg":"stream: started","id":"epiesjs6"}
+{"time":"2025-03-16T21:45:18.0666994+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"epiesjs6"}
+{"time":"2025-03-16T21:45:18.0666994+05:30","level":"INFO","msg":"sender: started","stream_id":"epiesjs6"}
+{"time":"2025-03-16T21:45:18.0666994+05:30","level":"INFO","msg":"handler: started","stream_id":"epiesjs6"}
+{"time":"2025-03-16T21:45:18.5043651+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T21:46:13.099091+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T21:46:13.1006457+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T21:46:14.1091818+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.6449655,"progress":"714B/714B"},{"desc":"uploading config.yaml","runtime_seconds":0.3269738,"progress":"947B/947B"}],"total_operations":2}}
+{"time":"2025-03-16T21:46:14.8363114+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T21:46:15.3270988+05:30","level":"INFO","msg":"stream: closing","id":"epiesjs6"}
+{"time":"2025-03-16T21:46:15.3270988+05:30","level":"INFO","msg":"handler: closed","stream_id":"epiesjs6"}
+{"time":"2025-03-16T21:46:15.3270988+05:30","level":"INFO","msg":"sender: closed","stream_id":"epiesjs6"}
+{"time":"2025-03-16T21:46:15.3270988+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"epiesjs6"}
+{"time":"2025-03-16T21:46:15.3270988+05:30","level":"INFO","msg":"stream: closed","id":"epiesjs6"}

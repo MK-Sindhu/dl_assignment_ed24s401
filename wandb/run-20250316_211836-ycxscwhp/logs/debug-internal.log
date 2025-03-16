@@ -1,0 +1,16 @@
+{"time":"2025-03-16T21:18:36.7044285+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401\\wandb\\run-20250316_211836-ycxscwhp\\logs\\debug-core.log"}
+{"time":"2025-03-16T21:18:36.8221346+05:30","level":"INFO","msg":"created new stream","id":"ycxscwhp"}
+{"time":"2025-03-16T21:18:36.8221346+05:30","level":"INFO","msg":"stream: started","id":"ycxscwhp"}
+{"time":"2025-03-16T21:18:36.8221346+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ycxscwhp"}
+{"time":"2025-03-16T21:18:36.8221346+05:30","level":"INFO","msg":"handler: started","stream_id":"ycxscwhp"}
+{"time":"2025-03-16T21:18:36.8221346+05:30","level":"INFO","msg":"sender: started","stream_id":"ycxscwhp"}
+{"time":"2025-03-16T21:18:37.1888088+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T21:19:36.1994427+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T21:19:36.2009791+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T21:19:37.2077538+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.3752193,"progress":"944B/944B"}],"total_operations":1}}
+{"time":"2025-03-16T21:19:37.3283853+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T21:19:38.061528+05:30","level":"INFO","msg":"stream: closing","id":"ycxscwhp"}
+{"time":"2025-03-16T21:19:38.061528+05:30","level":"INFO","msg":"handler: closed","stream_id":"ycxscwhp"}
+{"time":"2025-03-16T21:19:38.061528+05:30","level":"INFO","msg":"sender: closed","stream_id":"ycxscwhp"}
+{"time":"2025-03-16T21:19:38.061528+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ycxscwhp"}
+{"time":"2025-03-16T21:19:38.061528+05:30","level":"INFO","msg":"stream: closed","id":"ycxscwhp"}

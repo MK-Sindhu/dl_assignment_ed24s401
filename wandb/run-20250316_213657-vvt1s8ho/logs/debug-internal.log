@@ -1,0 +1,16 @@
+{"time":"2025-03-16T21:36:57.1579397+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401\\wandb\\run-20250316_213657-vvt1s8ho\\logs\\debug-core.log"}
+{"time":"2025-03-16T21:36:57.2714707+05:30","level":"INFO","msg":"created new stream","id":"vvt1s8ho"}
+{"time":"2025-03-16T21:36:57.2720473+05:30","level":"INFO","msg":"stream: started","id":"vvt1s8ho"}
+{"time":"2025-03-16T21:36:57.2720473+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"vvt1s8ho"}
+{"time":"2025-03-16T21:36:57.2720473+05:30","level":"INFO","msg":"handler: started","stream_id":"vvt1s8ho"}
+{"time":"2025-03-16T21:36:57.2720473+05:30","level":"INFO","msg":"sender: started","stream_id":"vvt1s8ho"}
+{"time":"2025-03-16T21:36:57.7251869+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T21:37:59.5523134+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T21:37:59.5533453+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T21:38:00.5731504+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.3585408,"progress":"726B/726B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3585408,"progress":"242B/242B"},{"desc":"uploading config.yaml","runtime_seconds":0.0228372,"progress":"936B/936B"}],"total_operations":3}}
+{"time":"2025-03-16T21:38:00.981008+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T21:38:01.5126378+05:30","level":"INFO","msg":"stream: closing","id":"vvt1s8ho"}
+{"time":"2025-03-16T21:38:01.5126378+05:30","level":"INFO","msg":"handler: closed","stream_id":"vvt1s8ho"}
+{"time":"2025-03-16T21:38:01.5126378+05:30","level":"INFO","msg":"sender: closed","stream_id":"vvt1s8ho"}
+{"time":"2025-03-16T21:38:01.5126378+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"vvt1s8ho"}
+{"time":"2025-03-16T21:38:01.5131418+05:30","level":"INFO","msg":"stream: closed","id":"vvt1s8ho"}

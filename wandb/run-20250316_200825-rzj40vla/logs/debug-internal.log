@@ -5,3 +5,12 @@
 {"time":"2025-03-16T20:08:25.7678208+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rzj40vla"}
 {"time":"2025-03-16T20:08:25.7678208+05:30","level":"INFO","msg":"sender: started","stream_id":"rzj40vla"}
 {"time":"2025-03-16T20:08:26.1052944+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T20:09:51.7908233+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T20:09:51.7946906+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T20:09:52.8292443+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.4280449,"progress":"727B/727B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4280449,"progress":"241B/241B"},{"desc":"uploading config.yaml","runtime_seconds":0.1194174,"progress":"944B/944B"}],"total_operations":3}}
+{"time":"2025-03-16T20:09:53.2929331+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T20:09:53.6392055+05:30","level":"INFO","msg":"stream: closing","id":"rzj40vla"}
+{"time":"2025-03-16T20:09:53.6392055+05:30","level":"INFO","msg":"sender: closed","stream_id":"rzj40vla"}
+{"time":"2025-03-16T20:09:53.6392055+05:30","level":"INFO","msg":"handler: closed","stream_id":"rzj40vla"}
+{"time":"2025-03-16T20:09:53.6392055+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"rzj40vla"}
+{"time":"2025-03-16T20:09:53.6392055+05:30","level":"INFO","msg":"stream: closed","id":"rzj40vla"}

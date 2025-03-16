@@ -1,0 +1,16 @@
+{"time":"2025-03-16T20:10:04.6796791+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401\\wandb\\run-20250316_201004-1ybr11n1\\logs\\debug-core.log"}
+{"time":"2025-03-16T20:10:04.7944714+05:30","level":"INFO","msg":"created new stream","id":"1ybr11n1"}
+{"time":"2025-03-16T20:10:04.7944714+05:30","level":"INFO","msg":"stream: started","id":"1ybr11n1"}
+{"time":"2025-03-16T20:10:04.7944714+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"1ybr11n1"}
+{"time":"2025-03-16T20:10:04.7944714+05:30","level":"INFO","msg":"sender: started","stream_id":"1ybr11n1"}
+{"time":"2025-03-16T20:10:04.7944714+05:30","level":"INFO","msg":"handler: started","stream_id":"1ybr11n1"}
+{"time":"2025-03-16T20:10:05.1500617+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T20:11:20.3506358+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T20:11:20.3511419+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T20:11:21.3606014+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.4071004,"progress":"726B/726B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4071004,"progress":"242B/242B"},{"desc":"uploading history steps 8-10, summary, console lines 8-10","runtime_seconds":0.2702041},{"desc":"uploading config.yaml","runtime_seconds":0.1204727,"progress":"936B/936B"}],"total_operations":4}}
+{"time":"2025-03-16T20:11:22.4707197+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T20:11:22.8082817+05:30","level":"INFO","msg":"stream: closing","id":"1ybr11n1"}
+{"time":"2025-03-16T20:11:22.8082817+05:30","level":"INFO","msg":"handler: closed","stream_id":"1ybr11n1"}
+{"time":"2025-03-16T20:11:22.8082817+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"1ybr11n1"}
+{"time":"2025-03-16T20:11:22.8082817+05:30","level":"INFO","msg":"sender: closed","stream_id":"1ybr11n1"}
+{"time":"2025-03-16T20:11:22.8093527+05:30","level":"INFO","msg":"stream: closed","id":"1ybr11n1"}

@@ -24,3 +24,13 @@ config: {'_wandb': {}}
 2025-03-16 21:49:59,228 INFO    Thread-526 (_run_job):22840 [wandb_run.py:_redirect():2292] Wrapping output streams.
 2025-03-16 21:49:59,228 INFO    Thread-526 (_run_job):22840 [wandb_run.py:_redirect():2315] Redirects installed.
 2025-03-16 21:49:59,228 INFO    Thread-526 (_run_job):22840 [wandb_init.py:init():1032] run started, returning control to user process
+2025-03-16 21:50:27,041 INFO    Thread-526 (_run_job):22840 [wandb_run.py:_finish():2112] finishing run ed24s401-indian-institute-of-technology-madras/q4_sweep_project/ttjkaq9h
+2025-03-16 21:50:27,047 ERROR   Thread-526 (_run_job):22840 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-03-16 21:50:27,047 INFO    Thread-526 (_run_job):22840 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-16 21:50:27,047 INFO    Thread-526 (_run_job):22840 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-03-16 21:50:27,047 INFO    Thread-526 (_run_job):22840 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-03-16 21:50:27,047 INFO    Thread-526 (_run_job):22840 [wandb_run.py:_restore():2322] restore
+2025-03-16 21:50:27,049 INFO    Thread-526 (_run_job):22840 [wandb_run.py:_restore():2328] restore done
+2025-03-16 21:50:28,636 INFO    Thread-526 (_run_job):22840 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-03-16 21:50:28,637 INFO    Thread-526 (_run_job):22840 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-03-16 21:50:28,637 INFO    Thread-526 (_run_job):22840 [wandb_run.py:_footer_sync_info():3917] logging synced files

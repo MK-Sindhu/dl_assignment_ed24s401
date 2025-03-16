@@ -1,0 +1,16 @@
+{"time":"2025-03-16T03:06:40.6113535+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401\\wandb\\run-20250316_030640-ka9itfwg\\logs\\debug-core.log"}
+{"time":"2025-03-16T03:06:41.554049+05:30","level":"INFO","msg":"created new stream","id":"ka9itfwg"}
+{"time":"2025-03-16T03:06:41.554049+05:30","level":"INFO","msg":"stream: started","id":"ka9itfwg"}
+{"time":"2025-03-16T03:06:41.554049+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ka9itfwg"}
+{"time":"2025-03-16T03:06:41.554049+05:30","level":"INFO","msg":"handler: started","stream_id":"ka9itfwg"}
+{"time":"2025-03-16T03:06:41.554049+05:30","level":"INFO","msg":"sender: started","stream_id":"ka9itfwg"}
+{"time":"2025-03-16T03:06:41.8937604+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T03:29:17.5260576+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T03:29:17.5292333+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T03:29:18.5365105+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.4295365,"progress":"2.8KB/2.8KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4295365,"progress":"246B/246B"},{"desc":"uploading config.yaml","runtime_seconds":0.1583588,"progress":"971B/971B"}],"total_operations":3}}
+{"time":"2025-03-16T03:29:19.5420961+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T03:29:19.8807281+05:30","level":"INFO","msg":"stream: closing","id":"ka9itfwg"}
+{"time":"2025-03-16T03:29:19.8807281+05:30","level":"INFO","msg":"handler: closed","stream_id":"ka9itfwg"}
+{"time":"2025-03-16T03:29:19.8807281+05:30","level":"INFO","msg":"sender: closed","stream_id":"ka9itfwg"}
+{"time":"2025-03-16T03:29:19.8807281+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ka9itfwg"}
+{"time":"2025-03-16T03:29:19.8807281+05:30","level":"INFO","msg":"stream: closed","id":"ka9itfwg"}

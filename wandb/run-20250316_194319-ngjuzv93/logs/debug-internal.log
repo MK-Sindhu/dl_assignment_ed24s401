@@ -1,0 +1,16 @@
+{"time":"2025-03-16T19:43:19.8852942+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401\\wandb\\run-20250316_194319-ngjuzv93\\logs\\debug-core.log"}
+{"time":"2025-03-16T19:43:20.7099165+05:30","level":"INFO","msg":"created new stream","id":"ngjuzv93"}
+{"time":"2025-03-16T19:43:20.7099165+05:30","level":"INFO","msg":"stream: started","id":"ngjuzv93"}
+{"time":"2025-03-16T19:43:20.7099165+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ngjuzv93"}
+{"time":"2025-03-16T19:43:20.7099165+05:30","level":"INFO","msg":"sender: started","stream_id":"ngjuzv93"}
+{"time":"2025-03-16T19:43:20.7099165+05:30","level":"INFO","msg":"handler: started","stream_id":"ngjuzv93"}
+{"time":"2025-03-16T19:43:21.211188+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T19:43:22.450637+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T19:43:22.4542525+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T19:43:23.470143+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.2438195,"progress":"941B/941B"}],"total_operations":1}}
+{"time":"2025-03-16T19:43:23.6313193+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T19:43:23.97228+05:30","level":"INFO","msg":"stream: closing","id":"ngjuzv93"}
+{"time":"2025-03-16T19:43:23.9730178+05:30","level":"INFO","msg":"sender: closed","stream_id":"ngjuzv93"}
+{"time":"2025-03-16T19:43:23.9730178+05:30","level":"INFO","msg":"handler: closed","stream_id":"ngjuzv93"}
+{"time":"2025-03-16T19:43:23.9730178+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ngjuzv93"}
+{"time":"2025-03-16T19:43:23.9730178+05:30","level":"INFO","msg":"stream: closed","id":"ngjuzv93"}

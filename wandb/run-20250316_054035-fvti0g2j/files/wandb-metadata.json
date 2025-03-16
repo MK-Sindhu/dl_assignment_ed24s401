@@ -1,0 +1,41 @@
+{
+  "os":  "Windows-10-10.0.26100-SP0",
+  "python":  "CPython 3.11.6",
+  "startedAt":  "2025-03-16T00:10:35.427960Z",
+  "program":  "c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401\\assgn_1.ipynb",
+  "codePath":  "assgn_1.ipynb",
+  "git":  {
+    "remote":  "https://github.com/MK-Sindhu/dl_assignment_ed24s401.git",
+    "commit":  "f627c9847f4ee945538ac753c0d222c6fb8280f7"
+  },
+  "email":  "ed24s401@smail.iitm.ac.in",
+  "root":  "c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401",
+  "host":  "DESKTOP-ECBDEOC",
+  "executable":  "c:\\Users\\acer\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+  "codePathLocal":  "assgn_1.ipynb",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "gpu":  "GeForce GTX 1650 Ti",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "254906724352",
+      "used":  "92586635264"
+    }
+  },
+  "memory":  {
+    "total":  "8412778496"
+  },
+  "cpu":  {
+    "count":  4,
+    "countLogical":  8
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "GeForce GTX 1650 Ti",
+      "memoryTotal":  "4294967296",
+      "architecture":  "Turing"
+    }
+  ],
+  "cudaVersion":  "11.0"
+}

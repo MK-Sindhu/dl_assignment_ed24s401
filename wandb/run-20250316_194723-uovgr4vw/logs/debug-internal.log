@@ -1,0 +1,16 @@
+{"time":"2025-03-16T19:47:23.7797672+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401\\wandb\\run-20250316_194723-uovgr4vw\\logs\\debug-core.log"}
+{"time":"2025-03-16T19:47:24.5244759+05:30","level":"INFO","msg":"created new stream","id":"uovgr4vw"}
+{"time":"2025-03-16T19:47:24.5244759+05:30","level":"INFO","msg":"stream: started","id":"uovgr4vw"}
+{"time":"2025-03-16T19:47:24.5244759+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"uovgr4vw"}
+{"time":"2025-03-16T19:47:24.5244759+05:30","level":"INFO","msg":"handler: started","stream_id":"uovgr4vw"}
+{"time":"2025-03-16T19:47:24.5244759+05:30","level":"INFO","msg":"sender: started","stream_id":"uovgr4vw"}
+{"time":"2025-03-16T19:47:24.8645327+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T19:49:34.3325301+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T19:49:34.3345885+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T19:49:35.3543992+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.2486424,"progress":"728B/728B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.2486424,"progress":"241B/241B"}],"total_operations":2}}
+{"time":"2025-03-16T19:49:36.4869454+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T19:49:37.0418609+05:30","level":"INFO","msg":"stream: closing","id":"uovgr4vw"}
+{"time":"2025-03-16T19:49:37.0418609+05:30","level":"INFO","msg":"handler: closed","stream_id":"uovgr4vw"}
+{"time":"2025-03-16T19:49:37.0418609+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"uovgr4vw"}
+{"time":"2025-03-16T19:49:37.0424756+05:30","level":"INFO","msg":"sender: closed","stream_id":"uovgr4vw"}
+{"time":"2025-03-16T19:49:37.0432097+05:30","level":"INFO","msg":"stream: closed","id":"uovgr4vw"}

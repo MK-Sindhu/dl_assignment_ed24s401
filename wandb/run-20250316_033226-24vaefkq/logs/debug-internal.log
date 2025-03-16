@@ -1,0 +1,8 @@
+{"time":"2025-03-16T03:32:27.0051706+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401\\wandb\\run-20250316_033226-24vaefkq\\logs\\debug-core.log"}
+{"time":"2025-03-16T03:32:27.6216767+05:30","level":"INFO","msg":"created new stream","id":"24vaefkq"}
+{"time":"2025-03-16T03:32:27.6216767+05:30","level":"INFO","msg":"stream: started","id":"24vaefkq"}
+{"time":"2025-03-16T03:32:27.6216767+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"24vaefkq"}
+{"time":"2025-03-16T03:32:27.6216767+05:30","level":"INFO","msg":"handler: started","stream_id":"24vaefkq"}
+{"time":"2025-03-16T03:32:27.6216767+05:30","level":"INFO","msg":"sender: started","stream_id":"24vaefkq"}
+{"time":"2025-03-16T03:32:27.9747861+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T05:10:14.1189457+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ed24s401-indian-institute-of-technology-madras/q4_sweep_project/24vaefkq/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}

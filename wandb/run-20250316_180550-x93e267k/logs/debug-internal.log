@@ -1,0 +1,7 @@
+{"time":"2025-03-16T18:05:50.7489692+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401\\wandb\\run-20250316_180550-x93e267k\\logs\\debug-core.log"}
+{"time":"2025-03-16T18:05:50.8629713+05:30","level":"INFO","msg":"created new stream","id":"x93e267k"}
+{"time":"2025-03-16T18:05:50.8629713+05:30","level":"INFO","msg":"stream: started","id":"x93e267k"}
+{"time":"2025-03-16T18:05:50.8629713+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"x93e267k"}
+{"time":"2025-03-16T18:05:50.8629713+05:30","level":"INFO","msg":"sender: started","stream_id":"x93e267k"}
+{"time":"2025-03-16T18:05:50.8629713+05:30","level":"INFO","msg":"handler: started","stream_id":"x93e267k"}
+{"time":"2025-03-16T18:05:51.2080824+05:30","level":"INFO","msg":"Starting system monitor"}

@@ -1,0 +1,17 @@
+{"time":"2025-03-16T10:49:29.8892295+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401\\wandb\\run-20250316_104929-3e9uphog\\logs\\debug-core.log"}
+{"time":"2025-03-16T10:49:30.5167731+05:30","level":"INFO","msg":"created new stream","id":"3e9uphog"}
+{"time":"2025-03-16T10:49:30.5167731+05:30","level":"INFO","msg":"stream: started","id":"3e9uphog"}
+{"time":"2025-03-16T10:49:30.5167731+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"3e9uphog"}
+{"time":"2025-03-16T10:49:30.5167731+05:30","level":"INFO","msg":"handler: started","stream_id":"3e9uphog"}
+{"time":"2025-03-16T10:49:30.5167731+05:30","level":"INFO","msg":"sender: started","stream_id":"3e9uphog"}
+{"time":"2025-03-16T10:49:31.1450192+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T11:16:01.1200429+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ed24s401-indian-institute-of-technology-madras/q4_sweep_project/3e9uphog/file_stream\": unexpected EOF"}
+{"time":"2025-03-16T11:57:09.2578981+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T11:57:09.2592998+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T11:57:10.2693272+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.4220927,"progress":"2.8KB/2.8KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4220927,"progress":"230B/230B"},{"desc":"uploading config.yaml","runtime_seconds":0.1463634,"progress":"976B/976B"}],"total_operations":3}}
+{"time":"2025-03-16T11:57:10.5084056+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T11:57:10.8628787+05:30","level":"INFO","msg":"stream: closing","id":"3e9uphog"}
+{"time":"2025-03-16T11:57:10.8628787+05:30","level":"INFO","msg":"handler: closed","stream_id":"3e9uphog"}
+{"time":"2025-03-16T11:57:10.8628787+05:30","level":"INFO","msg":"sender: closed","stream_id":"3e9uphog"}
+{"time":"2025-03-16T11:57:10.8628787+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"3e9uphog"}
+{"time":"2025-03-16T11:57:10.8628787+05:30","level":"INFO","msg":"stream: closed","id":"3e9uphog"}

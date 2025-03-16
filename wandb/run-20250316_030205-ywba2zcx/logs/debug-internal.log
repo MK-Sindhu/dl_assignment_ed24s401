@@ -1,0 +1,16 @@
+{"time":"2025-03-16T03:02:05.5156349+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401\\wandb\\run-20250316_030205-ywba2zcx\\logs\\debug-core.log"}
+{"time":"2025-03-16T03:02:06.5432922+05:30","level":"INFO","msg":"created new stream","id":"ywba2zcx"}
+{"time":"2025-03-16T03:02:06.5432922+05:30","level":"INFO","msg":"stream: started","id":"ywba2zcx"}
+{"time":"2025-03-16T03:02:06.5432922+05:30","level":"INFO","msg":"handler: started","stream_id":"ywba2zcx"}
+{"time":"2025-03-16T03:02:06.5432922+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ywba2zcx"}
+{"time":"2025-03-16T03:02:06.5432922+05:30","level":"INFO","msg":"sender: started","stream_id":"ywba2zcx"}
+{"time":"2025-03-16T03:02:07.0185001+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T03:02:08.6108614+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T03:02:08.6132011+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T03:02:09.6190176+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.6787176},{"desc":"uploading wandb-summary.json","runtime_seconds":0.6787176,"progress":"24B/24B"},{"desc":"uploading config.yaml","runtime_seconds":0.3608521,"progress":"975B/975B"}],"total_operations":3}}
+{"time":"2025-03-16T03:02:10.2811519+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T03:02:10.7181268+05:30","level":"INFO","msg":"stream: closing","id":"ywba2zcx"}
+{"time":"2025-03-16T03:02:10.7181268+05:30","level":"INFO","msg":"handler: closed","stream_id":"ywba2zcx"}
+{"time":"2025-03-16T03:02:10.7181268+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ywba2zcx"}
+{"time":"2025-03-16T03:02:10.7186357+05:30","level":"INFO","msg":"sender: closed","stream_id":"ywba2zcx"}
+{"time":"2025-03-16T03:02:10.7192053+05:30","level":"INFO","msg":"stream: closed","id":"ywba2zcx"}

@@ -1,0 +1,18 @@
+{"time":"2025-03-16T15:05:31.959882+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401\\wandb\\run-20250316_150531-7pjwqei0\\logs\\debug-core.log"}
+{"time":"2025-03-16T15:05:32.0751356+05:30","level":"INFO","msg":"created new stream","id":"7pjwqei0"}
+{"time":"2025-03-16T15:05:32.0751356+05:30","level":"INFO","msg":"stream: started","id":"7pjwqei0"}
+{"time":"2025-03-16T15:05:32.0751356+05:30","level":"INFO","msg":"handler: started","stream_id":"7pjwqei0"}
+{"time":"2025-03-16T15:05:32.0751356+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"7pjwqei0"}
+{"time":"2025-03-16T15:05:32.0751356+05:30","level":"INFO","msg":"sender: started","stream_id":"7pjwqei0"}
+{"time":"2025-03-16T15:05:34.9399631+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T15:10:46.0364598+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.0.195:51147->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-03-16T15:11:03.2801951+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ed24s401-indian-institute-of-technology-madras/q4_sweep_project/7pjwqei0/file_stream\": unexpected EOF"}
+{"time":"2025-03-16T15:13:28.8844072+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T15:13:28.8865422+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T15:13:29.9011046+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.3831337,"progress":"2.1KB/2.1KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3831337,"progress":"230B/230B"},{"desc":"uploading config.yaml","runtime_seconds":0.0659203,"progress":"975B/975B"}],"total_operations":3}}
+{"time":"2025-03-16T15:13:30.2036704+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T15:13:30.9844657+05:30","level":"INFO","msg":"stream: closing","id":"7pjwqei0"}
+{"time":"2025-03-16T15:13:30.9844657+05:30","level":"INFO","msg":"handler: closed","stream_id":"7pjwqei0"}
+{"time":"2025-03-16T15:13:30.9844657+05:30","level":"INFO","msg":"sender: closed","stream_id":"7pjwqei0"}
+{"time":"2025-03-16T15:13:30.9844657+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"7pjwqei0"}
+{"time":"2025-03-16T15:13:30.9851493+05:30","level":"INFO","msg":"stream: closed","id":"7pjwqei0"}

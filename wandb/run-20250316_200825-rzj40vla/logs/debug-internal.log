@@ -1,0 +1,7 @@
+{"time":"2025-03-16T20:08:25.6518348+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401\\wandb\\run-20250316_200825-rzj40vla\\logs\\debug-core.log"}
+{"time":"2025-03-16T20:08:25.7673028+05:30","level":"INFO","msg":"created new stream","id":"rzj40vla"}
+{"time":"2025-03-16T20:08:25.7678208+05:30","level":"INFO","msg":"stream: started","id":"rzj40vla"}
+{"time":"2025-03-16T20:08:25.7678208+05:30","level":"INFO","msg":"handler: started","stream_id":"rzj40vla"}
+{"time":"2025-03-16T20:08:25.7678208+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rzj40vla"}
+{"time":"2025-03-16T20:08:25.7678208+05:30","level":"INFO","msg":"sender: started","stream_id":"rzj40vla"}
+{"time":"2025-03-16T20:08:26.1052944+05:30","level":"INFO","msg":"Starting system monitor"}

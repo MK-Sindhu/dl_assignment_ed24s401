@@ -1,0 +1,10 @@
+Epoch 1/40 - loss=0.2246, val_acc=0.7242, val_loss=0.18314294294464756
+Epoch 2/40 - loss=0.1983, val_acc=0.7223, val_loss=0.18245696417619467
+Epoch 3/40 - loss=0.2156, val_acc=0.6208, val_loss=0.24420204094030395
+Epoch 4/40 - loss=0.2746, val_acc=0.5683, val_loss=0.2732058992619364
+Epoch 5/40 - loss=0.2942, val_acc=0.5245, val_loss=0.2918207349078788
+Epoch 6/40 - loss=0.3064, val_acc=0.5052, val_loss=0.29740542461374864
+Epoch 7/40 - loss=0.3085, val_acc=0.5160, val_loss=0.2972246730445529
+Epoch 8/40 - loss=0.3070, val_acc=0.5095, val_loss=0.2977163884350475
+Epoch 9/40 - loss=0.3056, val_acc=0.5473, val_loss=0.2862353252544281
+Epoch 10/40 - loss=0.3043, val_acc=0.5295, val_loss=0.29625232044856653

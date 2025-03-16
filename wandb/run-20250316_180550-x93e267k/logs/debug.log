@@ -1,0 +1,26 @@
+2025-03-16 18:05:50,720 INFO    Thread-36 (_run_job):15232 [wandb_setup.py:_flush():67] Current SDK version is 0.19.8
+2025-03-16 18:05:50,720 INFO    Thread-36 (_run_job):15232 [wandb_setup.py:_flush():67] Configure stats pid to 15232
+2025-03-16 18:05:50,720 INFO    Thread-36 (_run_job):15232 [wandb_setup.py:_flush():67] Loading settings from C:\Users\acer\.config\wandb\settings
+2025-03-16 18:05:50,720 INFO    Thread-36 (_run_job):15232 [wandb_setup.py:_flush():67] Loading settings from c:\Users\acer\OneDrive\Documents\GitHub\dl_assignment_ed24s401\wandb\settings
+2025-03-16 18:05:50,720 INFO    Thread-36 (_run_job):15232 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-16 18:05:50,736 INFO    Thread-36 (_run_job):15232 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\acer\OneDrive\Documents\GitHub\dl_assignment_ed24s401\wandb\run-20250316_180550-x93e267k\logs\debug.log
+2025-03-16 18:05:50,736 INFO    Thread-36 (_run_job):15232 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\acer\OneDrive\Documents\GitHub\dl_assignment_ed24s401\wandb\run-20250316_180550-x93e267k\logs\debug-internal.log
+2025-03-16 18:05:50,736 INFO    Thread-36 (_run_job):15232 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000024A80042250>
+2025-03-16 18:05:50,736 INFO    Thread-36 (_run_job):15232 [wandb_init.py:init():761] calling init triggers
+2025-03-16 18:05:50,736 INFO    Thread-36 (_run_job):15232 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'sigmoid', 'batch_size': 32, 'beta1': 0.9, 'beta2': 0.999, 'beta_rms': 0.9, 'epochs': 30, 'epsilon': 1e-08, 'hidden_size': 512, 'init_type': 'xavier', 'learning_rate': 0.0005, 'loss_func': 'sq_error', 'momentum': 0.9, 'num_hidden_layers': 4, 'optimizer': 'nadam', 'weight_decay': 0.0001}
+config: {'_wandb': {}}
+2025-03-16 18:05:50,736 INFO    Thread-36 (_run_job):15232 [wandb_init.py:init():784] starting backend
+2025-03-16 18:05:50,736 INFO    Thread-36 (_run_job):15232 [wandb_init.py:init():788] sending inform_init request
+2025-03-16 18:05:50,736 INFO    Thread-36 (_run_job):15232 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-03-16 18:05:50,741 INFO    Thread-36 (_run_job):15232 [wandb_init.py:init():798] backend started and connected
+2025-03-16 18:05:50,743 INFO    Thread-36 (_run_job):15232 [wandb_run.py:_config_callback():1261] config_cb None None {'activation': 'sigmoid', 'batch_size': 32, 'beta1': 0.9, 'beta2': 0.999, 'beta_rms': 0.9, 'epochs': 30, 'epsilon': 1e-08, 'hidden_size': 512, 'init_type': 'xavier', 'learning_rate': 0.0005, 'loss_func': 'sq_error', 'momentum': 0.9, 'num_hidden_layers': 4, 'optimizer': 'nadam', 'weight_decay': 0.0001}
+2025-03-16 18:05:50,744 INFO    Thread-36 (_run_job):15232 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-16 18:05:50,747 INFO    Thread-36 (_run_job):15232 [wandb_run.py:_label_probe_notebook():1214] Unable to probe notebook: 'charmap' codec can't decode byte 0x81 in position 52813: character maps to <undefined>
+2025-03-16 18:05:50,747 INFO    Thread-36 (_run_job):15232 [wandb_init.py:init():891] updated telemetry
+2025-03-16 18:05:50,786 INFO    Thread-36 (_run_job):15232 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-16 18:05:51,202 INFO    Thread-36 (_run_job):15232 [wandb_init.py:init():990] starting run threads in backend
+2025-03-16 18:05:51,349 INFO    Thread-36 (_run_job):15232 [wandb_run.py:_console_start():2375] atexit reg
+2025-03-16 18:05:51,349 INFO    Thread-36 (_run_job):15232 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-16 18:05:51,350 INFO    Thread-36 (_run_job):15232 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-16 18:05:51,350 INFO    Thread-36 (_run_job):15232 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-03-16 18:05:51,351 INFO    Thread-36 (_run_job):15232 [wandb_init.py:init():1032] run started, returning control to user process

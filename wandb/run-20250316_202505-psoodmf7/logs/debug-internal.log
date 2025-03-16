@@ -1,0 +1,16 @@
+{"time":"2025-03-16T20:25:05.4450163+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401\\wandb\\run-20250316_202505-psoodmf7\\logs\\debug-core.log"}
+{"time":"2025-03-16T20:25:05.5609836+05:30","level":"INFO","msg":"created new stream","id":"psoodmf7"}
+{"time":"2025-03-16T20:25:05.561522+05:30","level":"INFO","msg":"stream: started","id":"psoodmf7"}
+{"time":"2025-03-16T20:25:05.561522+05:30","level":"INFO","msg":"handler: started","stream_id":"psoodmf7"}
+{"time":"2025-03-16T20:25:05.561522+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"psoodmf7"}
+{"time":"2025-03-16T20:25:05.561522+05:30","level":"INFO","msg":"sender: started","stream_id":"psoodmf7"}
+{"time":"2025-03-16T20:25:05.9621807+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T20:26:21.1304149+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T20:26:21.1315887+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T20:26:22.1537612+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.3562927,"progress":"725B/725B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3562927,"progress":"241B/241B"},{"desc":"uploading config.yaml","runtime_seconds":0.0799582,"progress":"944B/944B"}],"total_operations":3}}
+{"time":"2025-03-16T20:26:22.43891+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T20:26:22.8219852+05:30","level":"INFO","msg":"stream: closing","id":"psoodmf7"}
+{"time":"2025-03-16T20:26:22.8219852+05:30","level":"INFO","msg":"handler: closed","stream_id":"psoodmf7"}
+{"time":"2025-03-16T20:26:22.8219852+05:30","level":"INFO","msg":"sender: closed","stream_id":"psoodmf7"}
+{"time":"2025-03-16T20:26:22.8219852+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"psoodmf7"}
+{"time":"2025-03-16T20:26:22.8219852+05:30","level":"INFO","msg":"stream: closed","id":"psoodmf7"}

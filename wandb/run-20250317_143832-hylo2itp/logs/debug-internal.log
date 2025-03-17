@@ -1,0 +1,16 @@
+{"time":"2025-03-17T14:38:32.1169293+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401\\wandb\\run-20250317_143832-hylo2itp\\logs\\debug-core.log"}
+{"time":"2025-03-17T14:38:32.9350796+05:30","level":"INFO","msg":"created new stream","id":"hylo2itp"}
+{"time":"2025-03-17T14:38:32.9350796+05:30","level":"INFO","msg":"stream: started","id":"hylo2itp"}
+{"time":"2025-03-17T14:38:32.9350796+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"hylo2itp"}
+{"time":"2025-03-17T14:38:32.9350796+05:30","level":"INFO","msg":"sender: started","stream_id":"hylo2itp"}
+{"time":"2025-03-17T14:38:32.9350796+05:30","level":"INFO","msg":"handler: started","stream_id":"hylo2itp"}
+{"time":"2025-03-17T14:38:33.6716557+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T14:38:43.1558327+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T14:38:43.1578414+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T14:38:44.1614618+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.6844283,"progress":"371B/371B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.6844283,"progress":"237B/237B"},{"desc":"uploading config.yaml","runtime_seconds":0.3128777,"progress":"971B/971B"}],"total_operations":3}}
+{"time":"2025-03-17T14:38:44.7916798+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T14:38:45.134141+05:30","level":"INFO","msg":"stream: closing","id":"hylo2itp"}
+{"time":"2025-03-17T14:38:45.134141+05:30","level":"INFO","msg":"handler: closed","stream_id":"hylo2itp"}
+{"time":"2025-03-17T14:38:45.134141+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"hylo2itp"}
+{"time":"2025-03-17T14:38:45.134141+05:30","level":"INFO","msg":"sender: closed","stream_id":"hylo2itp"}
+{"time":"2025-03-17T14:38:45.134141+05:30","level":"INFO","msg":"stream: closed","id":"hylo2itp"}

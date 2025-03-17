@@ -316,6 +316,11 @@ class feed_forward_NN_final:
             val_acc = np.mean(preds == val_labels)
 
             val_outputs = self.forward_pass(x_val)[-1]
+            
+            # training
+            preds_train = self.predict(x_train)
+            train_labels = np.argmax(y_train, axis=1)
+            train_acc = np.mean(preds_train == train_labels)
 
             # Validation loss
             l2_norm_weights = sum(np.sum(w**2) for w in self.weights)
@@ -339,6 +344,7 @@ class feed_forward_NN_final:
                     "training_loss": avg_loss,
                     "validation_accuracy": val_acc,
                     "validation loss": val_loss,
+                    "training accuracy": train_acc
                 }
             )
             print(
@@ -356,10 +362,25 @@ class feed_forward_NN_final:
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Train Neural Network with backpropagation.")
 
-    parser.add_argument("-wp","--wandb_project",type=str,default="myprojectname",help="Project name used to track experiments in Weights & Biases dashboard",)
+    parser.add_argument("-wp","--wandb_project",type=str,default="q4_sweep_project",help="Project name used to track experiments in Weights & Biases dashboard",)
 
     # You can omit --wandb_entity or set it explicitly if you have permission:
     # parser.add_argument('-we', '--wandb_entity', type=str, default='myusername', help='Wandb Entity')
+#     activation:"tanh"
+# batch_size:64
+# beta_rms:0.9
+# beta1:0.9
+# beta2:0.999
+# epochs:10
+# epsilon:0.00000001
+# hidden_size:128
+# init_type:"random"
+# learning_rate:0.001
+# loss_func:"cross_entropy"
+# momentum:0.9
+# num_hidden_layers:3
+# optimizer:"rmsprop"
+# weight_decay:0
 
     parser.add_argument("-d","--dataset",type=str,default="fashion_mnist",choices=["mnist", "fashion_mnist"],help="Dataset to use",)
     parser.add_argument("-e"  , "--epochs", type=int, default=1, help="Number of epochs to train neural network")
@@ -368,42 +389,39 @@ if __name__ == "__main__":
    
     parser.add_argument("-l"  , "--loss", type=str, default="cross_entropy", choices=["mean_squared_error", "cross_entropy"], help="Loss function",)
    
-    parser.add_argument("-o"  , "--optimizer", type=str, default="sgd", choices=["sgd", "momentum", "nag", "rmsprop", "adam", "nadam"], help="Optimizer type",)
+    parser.add_argument("-o"  , "--optimizer", type=str, default="rmsprop", choices=["sgd", "momentum", "nag", "rmsprop", "adam", "nadam"], help="Optimizer type",)
    
-    parser.add_argument("-lr" , "--learning_rate", type=float, default=0.1, help="Learning rate used to optimize model parameters")
+    parser.add_argument("-lr" , "--learning_rate", type=float, default=0.001, help="Learning rate used to optimize model parameters")
    
-    parser.add_argument("-m"  ,"--momentum", type=float, default=0.5, help="Momentum used by momentum and nag optimizers",)
+    parser.add_argument("-m"  ,"--momentum", type=float, default=0.9, help="Momentum used by momentum and nag optimizers",)
    
-    parser.add_argument("-beta", "--beta", type=float, default=0.5, help="Beta used by rmsprop optimizer")
+    parser.add_argument("-beta", "--beta", type=float, default=0.9, help="Beta used by rmsprop optimizer")
    
-    parser.add_argument("-beta1","--beta1",type=float,default=0.5,help="Beta1 used by adam and nadam optimizers",)
+    parser.add_argument("-beta1","--beta1",type=float,default=0.9,help="Beta1 used by adam and nadam optimizers",)
    
-    parser.add_argument("-beta2","--beta2",type=float,default=0.5,help="Beta2 used by adam and nadam optimizers",)
+    parser.add_argument("-beta2","--beta2",type=float,default=0.999,help="Beta2 used by adam and nadam optimizers",)
    
-    parser.add_argument("-eps", "--epsilon", type=float, default=1e-6, help="Epsilon used by optimizers")
+    parser.add_argument("-eps", "--epsilon", type=float, default=0.00000001, help="Epsilon used by optimizers")
    
     parser.add_argument("-w_d","--weight_decay",type=float,default=0.0,help="Weight decay used by optimizers")
    
     parser.add_argument("-w_i","--weight_init",type=str,default="random",choices=["random", "xavier"],help="Weight initialization method",)
    
-    parser.add_argument("-nhl","--num_layers",type=int,default=1,help="Number of hidden layers used in feedforward neural network",)
+    parser.add_argument("-nhl","--num_layers",type=int,default=3,help="Number of hidden layers used in feedforward neural network",)
    
-    parser.add_argument("-sz","--hidden_size",type=int,default=4,help="Number of hidden neurons in each hidden layer",)
+    parser.add_argument("-sz","--hidden_size",type=int,default=64,help="Number of hidden neurons in each hidden layer",)
    
-    parser.add_argument("-a","--activation",type=str,default="sigmoid",choices=["identity", "sigmoid", "tanh", "ReLU"],help="Activation function",)
+    parser.add_argument("-a","--activation",type=str,default="tanh",choices=["identity", "sigmoid", "tanh", "relu"],help="Activation function",)
 
     # Use parse_known_args to avoid errors with Jupyter’s extra flags
     args, unknown = parser.parse_known_args()
     print(args)
     config = vars(args)
 
-    # If you are logged in to wandb with the correct credentials,
-    # you can simply do:
-    # wandb.init(project=config['wandb_project'], config=config)
-
-    # If you get 403 permission denied or want a quick fix, use anonymous mode:
+ 
     wandb.init(project=config["wandb_project"], config=config, anonymous="allow")
-
+    run_name = "hl_"+str(config["num_layers"])+"_bs_"+str(config["batch_size"])+"_ac_"+str(config["activation"])
+    wandb.run.name = run_name
     # Load data
     if config["dataset"] == "fashion_mnist":
         (x_train_full, y_train_full), (x_test, y_test) = fashion_mnist.load_data()
@@ -463,3 +481,11 @@ if __name__ == "__main__":
 
     wandb.log({"test_accuracy": test_acc})
     print("Test accuracy:", test_acc)
+
+    # true_labels = [i in range(10)]
+
+
+    wandb.log({"confusion_matrix": wandb.plot.confusion_matrix(probs=None,
+                                                           y_true=test_labels,
+                                                         preds=test_preds,
+                                                           class_names=[str(i) for i in range(num_classes)])})

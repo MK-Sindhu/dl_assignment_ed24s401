@@ -27,19 +27,19 @@ parameters:
     values: ["random", "xavier"]
   activation:
     values: ["sigmoid", "tanh", "relu"]
-  momentum:
-    max: 0.999
-    min: 0.1
-    distribution: log_uniform_values
-  beta:
-    max: 0.999
-    min: 0.1
-    distribution: log_uniform_values
-  beta1:
-    max: 0.999
-    min: 0.1
-    distribution: log_uniform_values
-  beta2:
-    max: 0.999
-    min: 0.1
-    distribution: log_uniform_values
+  # momentum:
+  #   max: 0.999
+  #   min: 0.1
+  #   distribution: log_uniform_values
+  # beta:
+  #   max: 0.999
+  #   min: 0.1
+  #   distribution: log_uniform_values
+  # beta1:
+  #   max: 0.999
+  #   min: 0.1
+  #   distribution: log_uniform_values
+  # beta2:
+  #   max: 0.999
+  #   min: 0.1
+  #   distribution: log_uniform_values

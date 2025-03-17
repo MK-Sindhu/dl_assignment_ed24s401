@@ -1,0 +1,16 @@
+{"time":"2025-03-17T15:28:21.6866458+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401\\wandb\\run-20250317_152821-kidecs42\\logs\\debug-core.log"}
+{"time":"2025-03-17T15:28:22.5051414+05:30","level":"INFO","msg":"created new stream","id":"kidecs42"}
+{"time":"2025-03-17T15:28:22.5054512+05:30","level":"INFO","msg":"stream: started","id":"kidecs42"}
+{"time":"2025-03-17T15:28:22.5054512+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"kidecs42"}
+{"time":"2025-03-17T15:28:22.5054512+05:30","level":"INFO","msg":"handler: started","stream_id":"kidecs42"}
+{"time":"2025-03-17T15:28:22.5054512+05:30","level":"INFO","msg":"sender: started","stream_id":"kidecs42"}
+{"time":"2025-03-17T15:28:22.8830374+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T15:28:54.3543603+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T15:28:54.3554078+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T15:28:55.3706544+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.7106264,"progress":"242B/242B"},{"desc":"uploading config.yaml","runtime_seconds":0.3756793,"progress":"976B/976B"}],"total_operations":2}}
+{"time":"2025-03-17T15:28:55.9769894+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T15:28:56.2824491+05:30","level":"INFO","msg":"stream: closing","id":"kidecs42"}
+{"time":"2025-03-17T15:28:56.2824491+05:30","level":"INFO","msg":"handler: closed","stream_id":"kidecs42"}
+{"time":"2025-03-17T15:28:56.2824491+05:30","level":"INFO","msg":"sender: closed","stream_id":"kidecs42"}
+{"time":"2025-03-17T15:28:56.2824491+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"kidecs42"}
+{"time":"2025-03-17T15:28:56.2824491+05:30","level":"INFO","msg":"stream: closed","id":"kidecs42"}

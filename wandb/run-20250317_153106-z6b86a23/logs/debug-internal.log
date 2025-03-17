@@ -1,0 +1,16 @@
+{"time":"2025-03-17T15:31:06.0975174+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401\\wandb\\run-20250317_153106-z6b86a23\\logs\\debug-core.log"}
+{"time":"2025-03-17T15:31:07.1140609+05:30","level":"INFO","msg":"created new stream","id":"z6b86a23"}
+{"time":"2025-03-17T15:31:07.1140609+05:30","level":"INFO","msg":"stream: started","id":"z6b86a23"}
+{"time":"2025-03-17T15:31:07.1140609+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"z6b86a23"}
+{"time":"2025-03-17T15:31:07.1140609+05:30","level":"INFO","msg":"handler: started","stream_id":"z6b86a23"}
+{"time":"2025-03-17T15:31:07.1140609+05:30","level":"INFO","msg":"sender: started","stream_id":"z6b86a23"}
+{"time":"2025-03-17T15:31:07.4365307+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T15:31:38.549039+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T15:31:38.5495437+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T15:31:39.565667+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.6016735,"progress":"362B/362B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.6016735,"progress":"236B/236B"},{"desc":"uploading config.yaml","runtime_seconds":0.174093,"progress":"976B/976B"}],"total_operations":3}}
+{"time":"2025-03-17T15:31:40.3678696+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T15:31:40.7568027+05:30","level":"INFO","msg":"stream: closing","id":"z6b86a23"}
+{"time":"2025-03-17T15:31:40.7568027+05:30","level":"INFO","msg":"handler: closed","stream_id":"z6b86a23"}
+{"time":"2025-03-17T15:31:40.7568027+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"z6b86a23"}
+{"time":"2025-03-17T15:31:40.7568027+05:30","level":"INFO","msg":"sender: closed","stream_id":"z6b86a23"}
+{"time":"2025-03-17T15:31:40.7573448+05:30","level":"INFO","msg":"stream: closed","id":"z6b86a23"}

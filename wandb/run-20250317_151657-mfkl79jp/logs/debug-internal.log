@@ -1,0 +1,16 @@
+{"time":"2025-03-17T15:16:57.7580883+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401\\wandb\\run-20250317_151657-mfkl79jp\\logs\\debug-core.log"}
+{"time":"2025-03-17T15:16:58.4763633+05:30","level":"INFO","msg":"created new stream","id":"mfkl79jp"}
+{"time":"2025-03-17T15:16:58.4763633+05:30","level":"INFO","msg":"stream: started","id":"mfkl79jp"}
+{"time":"2025-03-17T15:16:58.4763633+05:30","level":"INFO","msg":"handler: started","stream_id":"mfkl79jp"}
+{"time":"2025-03-17T15:16:58.4763633+05:30","level":"INFO","msg":"sender: started","stream_id":"mfkl79jp"}
+{"time":"2025-03-17T15:16:58.4763633+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"mfkl79jp"}
+{"time":"2025-03-17T15:16:58.8401614+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T15:18:19.5836133+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T15:18:19.5846516+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T15:18:20.6008831+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.4265612,"progress":"715B/715B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4265612,"progress":"226B/226B"},{"desc":"uploading config.yaml","runtime_seconds":0.1316113,"progress":"976B/976B"}],"total_operations":3}}
+{"time":"2025-03-17T15:18:21.4988183+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T15:18:21.8743401+05:30","level":"INFO","msg":"stream: closing","id":"mfkl79jp"}
+{"time":"2025-03-17T15:18:21.8743401+05:30","level":"INFO","msg":"handler: closed","stream_id":"mfkl79jp"}
+{"time":"2025-03-17T15:18:21.8743401+05:30","level":"INFO","msg":"sender: closed","stream_id":"mfkl79jp"}
+{"time":"2025-03-17T15:18:21.8743401+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"mfkl79jp"}
+{"time":"2025-03-17T15:18:21.8743401+05:30","level":"INFO","msg":"stream: closed","id":"mfkl79jp"}

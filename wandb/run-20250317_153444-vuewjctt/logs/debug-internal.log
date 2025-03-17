@@ -1,0 +1,16 @@
+{"time":"2025-03-17T15:34:44.5584357+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401\\wandb\\run-20250317_153444-vuewjctt\\logs\\debug-core.log"}
+{"time":"2025-03-17T15:34:45.2750252+05:30","level":"INFO","msg":"created new stream","id":"vuewjctt"}
+{"time":"2025-03-17T15:34:45.2750252+05:30","level":"INFO","msg":"stream: started","id":"vuewjctt"}
+{"time":"2025-03-17T15:34:45.2750252+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"vuewjctt"}
+{"time":"2025-03-17T15:34:45.2750252+05:30","level":"INFO","msg":"handler: started","stream_id":"vuewjctt"}
+{"time":"2025-03-17T15:34:45.2750252+05:30","level":"INFO","msg":"sender: started","stream_id":"vuewjctt"}
+{"time":"2025-03-17T15:34:45.6328121+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T15:35:45.7231353+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T15:35:46.5978598+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T15:35:46.7372426+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.1393828}],"total_operations":1}}
+{"time":"2025-03-17T15:35:47.8781577+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T15:35:48.197804+05:30","level":"INFO","msg":"stream: closing","id":"vuewjctt"}
+{"time":"2025-03-17T15:35:48.197804+05:30","level":"INFO","msg":"handler: closed","stream_id":"vuewjctt"}
+{"time":"2025-03-17T15:35:48.197804+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"vuewjctt"}
+{"time":"2025-03-17T15:35:48.197804+05:30","level":"INFO","msg":"sender: closed","stream_id":"vuewjctt"}
+{"time":"2025-03-17T15:35:48.197804+05:30","level":"INFO","msg":"stream: closed","id":"vuewjctt"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-16T21:51:40.4987813+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\acer\\OneDrive\\Documents\\GitHub\\dl_assignment_ed24s401\\wandb\\run-20250316_215140-mp99gi93\\logs\\debug-core.log"}
+{"time":"2025-03-16T21:51:40.6141693+05:30","level":"INFO","msg":"created new stream","id":"mp99gi93"}
+{"time":"2025-03-16T21:51:40.6141693+05:30","level":"INFO","msg":"stream: started","id":"mp99gi93"}
+{"time":"2025-03-16T21:51:40.6141693+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"mp99gi93"}
+{"time":"2025-03-16T21:51:40.6141693+05:30","level":"INFO","msg":"handler: started","stream_id":"mp99gi93"}
+{"time":"2025-03-16T21:51:40.6141693+05:30","level":"INFO","msg":"sender: started","stream_id":"mp99gi93"}
+{"time":"2025-03-16T21:51:41.1540469+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T21:53:12.7335146+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T21:53:12.7340209+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T21:53:13.7583843+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.401083,"progress":"229B/229B"},{"desc":"uploading output.log","runtime_seconds":0.401083,"progress":"730B/730B"},{"desc":"uploading config.yaml","runtime_seconds":0.1091537,"progress":"935B/935B"}],"total_operations":3}}
+{"time":"2025-03-16T21:53:14.0400618+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T21:53:14.5402736+05:30","level":"INFO","msg":"stream: closing","id":"mp99gi93"}
+{"time":"2025-03-16T21:53:14.5402736+05:30","level":"INFO","msg":"handler: closed","stream_id":"mp99gi93"}
+{"time":"2025-03-16T21:53:14.5402736+05:30","level":"INFO","msg":"sender: closed","stream_id":"mp99gi93"}
+{"time":"2025-03-16T21:53:14.5402736+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"mp99gi93"}
+{"time":"2025-03-16T21:53:14.5402736+05:30","level":"INFO","msg":"stream: closed","id":"mp99gi93"}

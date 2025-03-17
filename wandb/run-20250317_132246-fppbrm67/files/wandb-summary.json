@@ -1,0 +1,1 @@
+{"epoch":10,"test_accuracy":0.1,"_wandb":{"runtime":221},"_timestamp":1.7421981878983514e+09,"validation_accuracy":0.09766666666666667,"_step":10,"_runtime":221.8301825,"training_loss":2.3029194741549985,"validation loss":2.3027674648732095}

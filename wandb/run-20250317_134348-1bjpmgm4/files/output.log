@@ -1,0 +1,11 @@
+Epoch 1/10 - loss=2.4294, val_acc=0.1012, val_loss=2.3070099067544882
+Epoch 2/10 - loss=2.3524, val_acc=0.2153, val_loss=2.2949199972316405
+Epoch 3/10 - loss=2.3451, val_acc=0.2393, val_loss=2.289798684137088
+Epoch 4/10 - loss=2.3400, val_acc=0.2873, val_loss=2.2848715584484522
+Epoch 5/10 - loss=2.3349, val_acc=0.3177, val_loss=2.27964418416063
+Epoch 6/10 - loss=2.3296, val_acc=0.3298, val_loss=2.2740921762453583
+Epoch 7/10 - loss=2.3238, val_acc=0.3200, val_loss=2.268079310237216
+Epoch 8/10 - loss=2.3175, val_acc=0.3377, val_loss=2.2613472085350392
+Epoch 9/10 - loss=2.3105, val_acc=0.3270, val_loss=2.253804328705537
+Epoch 10/10 - loss=2.3025, val_acc=0.3237, val_loss=2.2450918236727397
+test accuracy  0.3184

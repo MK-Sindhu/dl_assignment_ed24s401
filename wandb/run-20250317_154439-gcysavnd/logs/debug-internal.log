@@ -5,3 +5,12 @@
 {"time":"2025-03-17T15:44:39.848537+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"gcysavnd"}
 {"time":"2025-03-17T15:44:39.848537+05:30","level":"INFO","msg":"sender: started","stream_id":"gcysavnd"}
 {"time":"2025-03-17T15:44:40.1789709+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T15:46:11.8626386+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T15:46:11.867461+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T15:46:12.8947061+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.185464,"progress":"983B/983B"}],"total_operations":1}}
+{"time":"2025-03-17T15:46:13.0945883+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T15:46:13.4482282+05:30","level":"INFO","msg":"stream: closing","id":"gcysavnd"}
+{"time":"2025-03-17T15:46:13.4482282+05:30","level":"INFO","msg":"handler: closed","stream_id":"gcysavnd"}
+{"time":"2025-03-17T15:46:13.4482282+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"gcysavnd"}
+{"time":"2025-03-17T15:46:13.4482282+05:30","level":"INFO","msg":"sender: closed","stream_id":"gcysavnd"}
+{"time":"2025-03-17T15:46:13.449201+05:30","level":"INFO","msg":"stream: closed","id":"gcysavnd"}

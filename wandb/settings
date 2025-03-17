@@ -1,0 +1,5 @@
+[default]
+entity = ed24s401-indian-institute-of-technology-madras
+project = q4_sweep_project
+base_url = https://api.wandb.ai
+

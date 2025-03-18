@@ -14,6 +14,12 @@ install these libraries together or individually through terminal
 ```sh
 pip install numpy wandb tensorflow matplotlib
 ```
+## Repository files/content
+- `assign_1_final.ipynb` is the final code for all questions except passing command line arguments
+- `final(argparse).ipynb` is the ipynb file for passing command line argument
+- `train.py` is a python script in the root directory of your GitHub repository that accepts the following command line arguments with the specified values
+- `config.yaml` contains the run configurations for passing commandline arguments where you can set specific values for different parameters 
+
 ### run configurations : 
 
 ```
@@ -98,10 +104,5 @@ parameters:
     distribution: log_uniform_values
 
   ```
-<br>
 
-## Repository files/content
-- `assign_1_final.ipynb` is the final code for all questions except passing command line arguments
-- `final(argparse).ipynb` is the ipynb file for passing command line argument
-- `train.py` is a python script in the root directory of your GitHub repository that accepts the following command line arguments with the specified values
-- `config.yaml` contains the configurations for the commandline arguments where you can set specific values for differen parameters 
+

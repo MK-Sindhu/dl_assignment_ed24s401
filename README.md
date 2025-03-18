@@ -88,3 +88,9 @@ parameters:
     distribution: log_uniform_values
 
   ```
+<br>
+1. file **assign_1_final** is the final code for all questions except passing command line arguments
+<br>
+2. file **final(argparse)** is the ipynb file for passing command line argument
+<br>
+3. file **train.py** is a python script in the root directory of your GitHub repository that accepts the following command line arguments with the specified values

@@ -366,21 +366,6 @@ if __name__ == "__main__":
 
     # You can omit --wandb_entity or set it explicitly if you have permission:
     # parser.add_argument('-we', '--wandb_entity', type=str, default='myusername', help='Wandb Entity')
-#     activation:"tanh"
-# batch_size:64
-# beta_rms:0.9
-# beta1:0.9
-# beta2:0.999
-# epochs:10
-# epsilon:0.00000001
-# hidden_size:128
-# init_type:"random"
-# learning_rate:0.001
-# loss_func:"cross_entropy"
-# momentum:0.9
-# num_hidden_layers:3
-# optimizer:"rmsprop"
-# weight_decay:0
 
     parser.add_argument("-d","--dataset",type=str,default="fashion_mnist",choices=["mnist", "fashion_mnist"],help="Dataset to use",)
     parser.add_argument("-e"  , "--epochs", type=int, default=1, help="Number of epochs to train neural network")
@@ -484,7 +469,7 @@ if __name__ == "__main__":
 
     # true_labels = [i in range(10)]
 
-
+    # ANSWER 7 (Confusion matrix)
     wandb.log({"confusion_matrix": wandb.plot.confusion_matrix(probs=None,
                                                            y_true=test_labels,
                                                          preds=test_preds,

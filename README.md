@@ -1,6 +1,7 @@
 # dl_assignment_ed24s401
 
 wandb report link : https://wandb.ai/ed24s401-indian-institute-of-technology-madras/q4_sweep_project/reports/DA6401-Assignment-1--VmlldzoxMTgzOTAwMw
+<br>
 github link: https://github.com/MK-Sindhu/dl_assignment_ed24s401
 
 run configurations : 

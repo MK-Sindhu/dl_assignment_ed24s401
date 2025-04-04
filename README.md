@@ -51,8 +51,8 @@ python train.py --wandb_entity myname --wandb_project myprojectname
 | `-a`, `--activation` | sigmoid | choices:  ["identity", "sigmoid", "tanh", "ReLU"] |
 
 ----------------------------------------------------------------------------------<br>
-in order to run a sweep, run the following command:<br>
-wandb sweep config.yaml
+### In order to run a sweep, run the following command:<br>
+`wandb sweep config.yaml`
 <br>
 
 configs supported:<br>
